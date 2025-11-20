@@ -28,7 +28,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 1. Crea un archivo JavaScript `app.js`.
 2. Agrega tu código en el archivo.
 2. Tienes que usar `console.log("Cualquier string");` para imprimir un mensaje en la consola.
-4. Ejecuta tu código escribiendo en la terminal: `$ node app.js` **si lo ejecutas localmente, asegúrate de tener node.js**
+4. Ejecuta tu código escribiendo en la terminal: `$ node app.js` **si lo ejecutas localmente, asegúrate de tener node.js.**
 
 </onlyfor>
 
