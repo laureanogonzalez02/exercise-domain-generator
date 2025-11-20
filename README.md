@@ -27,7 +27,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 1. Add your code inside your app.js file.
 2. You have to use `console.log("Any string");` to show something on the console.
-3. Run your code by typing: `npm run start`, **if you run it locally, make sure you have node.js**
+3. Run your code by typing: `npm run start`, **if you run it locally, make sure you have node.js.**
 
 </onlyfor>
 
